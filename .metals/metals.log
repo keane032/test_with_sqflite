@@ -1,0 +1,92 @@
+INFO  started: Metals version 0.8.3 in workspace '/home/void/Área de Trabalho/myvocation'
+INFO  time: initialize in 10s
+WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/home/void/Área de Trabalho/myvocation'
+INFO  time: initialize in 1.62s
+WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+2020.10.21 19:01:21 INFO  started: Metals version 0.9.4 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.10.21 19:01:25 INFO  time: initialize in 4.43s
+2020.10.21 19:01:30 WARN  resetting database: /home/void/Área de Trabalho/myvocation/.metals/metals.h2.db
+2020.10.21 19:01:40 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+out 21, 2020 8:14:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTraceNotification
+2020.10.21 22:00:37 INFO  shutting down Metals
+2020.10.31 15:05:24 INFO  started: Metals version 0.9.4 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.10.31 15:05:26 INFO  time: initialize in 1.74s
+2020.10.31 15:05:35 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.31 15:07:13 INFO  shutting down Metals
+2020.11.14 10:33:42 INFO  Started: Metals version 0.9.5 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.14 10:33:44 INFO  time: initialize in 4.43s
+2020.11.14 10:34:05 WARN  Build server is not auto-connectable.
+2020.11.14 10:34:05 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.14 18:22:01 INFO  shutting down Metals
+2020.11.16 08:28:19 INFO  Started: Metals version 0.9.5 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.16 08:28:21 INFO  time: initialize in 2.23s
+2020.11.16 08:28:35 WARN  Build server is not auto-connectable.
+2020.11.16 08:28:35 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.16 21:10:15 INFO  shutting down Metals
+2020.11.19 08:39:24 INFO  Started: Metals version 0.9.5 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.19 08:39:27 INFO  time: initialize in 4.4s
+2020.11.19 08:39:35 WARN  Build server is not auto-connectable.
+2020.11.19 08:39:35 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.20 08:19:26 INFO  Started: Metals version 0.9.5 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.20 08:19:29 INFO  time: initialize in 4.49s
+2020.11.20 08:19:42 WARN  Build server is not auto-connectable.
+2020.11.20 08:19:42 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.20 17:23:51 INFO  shutting down Metals
+2020.11.26 08:20:35 INFO  Started: Metals version 0.9.6 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.26 08:20:38 INFO  time: initialize in 6.32s
+2020.11.26 08:20:47 WARN  Build server is not auto-connectable.
+2020.11.26 08:20:47 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.26 10:43:59 INFO  shutting down Metals
+2020.11.28 08:24:08 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.11.28 08:24:11 INFO  time: initialize in 4.17s
+2020.11.28 08:24:38 WARN  Build server is not auto-connectable.
+2020.11.28 08:24:38 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.28 08:29:03 INFO  shutting down Metals
+2020.12.02 08:15:39 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.02 08:15:43 INFO  time: initialize in 3.34s
+2020.12.02 08:15:49 WARN  Build server is not auto-connectable.
+2020.12.02 08:15:49 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.02 14:07:40 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.02 14:07:42 INFO  time: initialize in 3.87s
+2020.12.02 14:07:54 WARN  Build server is not auto-connectable.
+2020.12.02 14:07:54 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.02 14:25:35 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.02 14:25:37 INFO  time: initialize in 2.47s
+2020.12.02 14:25:53 WARN  Build server is not auto-connectable.
+2020.12.02 14:25:53 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.02 15:02:22 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.02 15:02:25 INFO  time: initialize in 4.5s
+2020.12.02 15:02:35 WARN  Build server is not auto-connectable.
+2020.12.02 15:02:35 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.02 18:32:56 INFO  shutting down Metals
+2020.12.08 20:10:36 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.08 20:10:39 INFO  time: initialize in 3.14s
+2020.12.08 20:10:50 WARN  Build server is not auto-connectable.
+2020.12.08 20:10:50 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.08 21:49:48 INFO  shutting down Metals
+2020.12.09 08:10:46 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.09 08:10:48 INFO  time: initialize in 1.33s
+2020.12.09 08:10:54 WARN  Build server is not auto-connectable.
+2020.12.09 08:10:54 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.09 17:08:24 INFO  shutting down Metals
+2020.12.12 10:36:31 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.12 10:36:36 INFO  time: initialize in 5.41s
+2020.12.12 10:36:44 WARN  Build server is not auto-connectable.
+2020.12.12 10:36:44 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+dez 12, 2020 10:37:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTraceNotification
+2020.12.12 10:39:48 INFO  shutting down Metals
+2020.12.12 10:43:59 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.12 10:44:02 INFO  time: initialize in 2.73s
+2020.12.12 10:44:15 WARN  Build server is not auto-connectable.
+2020.12.12 10:44:15 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 10:45:53 INFO  shutting down Metals
+2020.12.14 08:25:45 INFO  Started: Metals version 0.9.7 in workspace '/home/void/Área de Trabalho/myvocation' for client vscode.
+2020.12.14 08:25:46 INFO  time: initialize in 1.11s
+2020.12.14 08:25:49 WARN  Build server is not auto-connectable.
+2020.12.14 08:25:49 WARN  no build tool detected in workspace '/home/void/Área de Trabalho/myvocation'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.14 14:16:50 INFO  shutting down Metals
