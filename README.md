@@ -1,3 +1,3 @@
 # sqfLite teste
 
-projeto para teste
+projeto criado para testar o sqflite em flutter
